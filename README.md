@@ -25,4 +25,3 @@ python eval.py --n_sample 2
 ```
 where the n_samples is the number of images to be generated (>1 only). The script is modified to run on CPU *only*.
 
-![Example](https://github.com/sulphatet/gan-anime-sceneries/blob/main/rec_40000.jpg?raw=true)
