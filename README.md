@@ -25,3 +25,5 @@ python eval.py --n_sample 2
 ```
 where the n_samples is the number of images to be generated (>1 only). The script is modified to run on CPU *only*.
 
+![rec_40000](https://github.com/user-attachments/assets/e50252fa-c68b-4b5b-986d-2e84b50579d4)
+
